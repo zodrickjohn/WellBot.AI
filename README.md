@@ -1,7 +1,7 @@
 # WellBot.AI
 
-![WellBot preview 2](./screenshot-2025-05-10-085859.png)
-![WellBot preview 2](./screenshot-2025-05-10-091622.png)
+![WellBot preview 2](./img1.png)
+![WellBot preview 2](./img2.png)
 
 ## Introduction
 
