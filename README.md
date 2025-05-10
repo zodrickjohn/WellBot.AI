@@ -1,7 +1,13 @@
 # WellBot.AI
 
 ![WellBot preview 2](./img1.png)
+
+
 ![WellBot preview 2](./img2.png)
+
+
+![WellBot preview 2](./img3.png)
+
 
 ## Introduction
 
