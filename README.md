@@ -1,6 +1,6 @@
 # WellBot.AI
 
-[!(Home page)(Home page.mp4)]
+!(Home page)(home_page.mp4)
 
 ## Introduction
 
