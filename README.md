@@ -1,6 +1,7 @@
 # WellBot.AI
 
-!(Home page)(home_page.mp4)
+## Homepage Preview
+<video src="home_page.mp4" controls width="700"></video>
 
 ## Introduction
 
