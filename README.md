@@ -27,9 +27,47 @@ WellBot.AI is an intelligent web application designed to diagnose health issues 
 ## Installation / Run Locally
 
 To run WellBot.AI locally on your system, follow these steps:
-
 ### 1. Clone the Repository
 
 ```bash
 git clone [REPOSITORY_URL]
 cd WellBot.AI
+```
+
+### 2. Install Backend Dependencies
+
+```bash
+cd backend
+pip install -r requirements.txt
+```
+
+### 3. Install Frontend Dependencies
+
+```bash
+cd ../frontend
+npm install
+```
+
+### 4. Environment Variables
+
+```bash
+OPENROUTER_API_KEY=[YOUR_API_KEY_HERE]
+```
+
+### 5. Start the Application
+
+backend
+```bash
+cd backend
+python app.py
+```
+
+frontend
+```bash
+cd ../frontend
+npm start
+```
+
+---
+
+WellBot.AI is made with 💖 by Aanas and Zodrick at the HackIndia Hackathon
