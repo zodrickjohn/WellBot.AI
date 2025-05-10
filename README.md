@@ -1,7 +1,7 @@
 # WellBot.AI
 
-## Homepage Preview
-<video src="home_page.mp4" controls width="700"></video>
+![image 1](Screenshot 2025-05-10 085859.png)
+
 
 ## Introduction
 
