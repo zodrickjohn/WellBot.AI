@@ -19,7 +19,7 @@ const FeedbackPage = () => {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          'X-API-Key': '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',
+          'X-API-Key': 'OPEN_ROUTER_API_KEY',
         },
         body: JSON.stringify({ usefulness, accuracy, comments }),
       });
