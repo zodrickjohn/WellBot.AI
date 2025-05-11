@@ -28,7 +28,7 @@ const db = new sqlite3.Database('./feedback.db', (err) => {
 });
 
 // API Key for basic security (replace with your own key)
-const API_KEY = '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';
+const API_KEY = 'API_KEY';
 
 // Middleware to check API key
 const authenticateAPIKey = (req, res, next) => {
