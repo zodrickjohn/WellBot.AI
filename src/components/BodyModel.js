@@ -2,6 +2,7 @@ import { useGLTF, Html } from '@react-three/drei';
 import { Suspense, useState, useEffect, useRef, useCallback } from 'react';
 import * as THREE from 'three';
 
+
 function Model({ setError, onPartClick, selectedParts }) {
   const [model, setModel] = useState(null);
   const originalMaterials = useRef(new Map());
