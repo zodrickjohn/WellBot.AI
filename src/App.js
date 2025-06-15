@@ -9,7 +9,6 @@ import useSound from 'use-sound';
 import pingSound from './sounds/ping.mp3'; // You'll need to add these sound files
 import './styles.css';
 
-
 function Home() {
   const [selectedParts, setSelectedParts] = useState([]);
   const [painType, setPainType] = useState('');
