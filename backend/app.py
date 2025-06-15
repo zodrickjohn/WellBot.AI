@@ -166,6 +166,5 @@ def diagnose():
     except Exception as e:
         logger.error("Unexpected error: %s", str(e), exc_info=True)
         return jsonify({"error": f"Server error: ${str(e)}"}), 500
-
 if __name__ == '__main__':
     app.run(debug=True, port=5001)
